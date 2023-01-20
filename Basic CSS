@@ -1,0 +1,47 @@
+//Methods to add CSS to HTML
+
+ ⭐ <link rel="stylesheet" href="rough.css">   // In the href enter your css file name with .css extension
+  
+  ⭐ <style></style>  //Add Style Tage
+  
+  //Css Selector
+  
+  body{
+      //changes you want ex.. color: red
+      //changes you want ex.. background: pink
+    {
+    
+  //Element Selector
+  
+  h2{  //element you want to change
+     //changes you want
+    }
+    
+    //Class Selector     //. is used in class
+     
+    .red { // name of class
+          //changes you want to apply
+      } 
+      
+      //Group selectors
+      
+      h1,h2,h3 {  //element names to choose
+          //changes you want to apply
+          }
+      
+      
+      //Using element class as selector
+      
+      p.red {   // first wite element and give dot and then add class name
+         //changes you want to apply
+         } 
+         
+     //Universal selector to select all the elements is *
+     
+     *{
+        //changes to apply
+        }
+          
+          
+ 
+   
