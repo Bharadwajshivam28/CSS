@@ -1,0 +1,12 @@
+Styling your web page to make it look appealing is also an essential element of web designing and development.
+CSS helps in giving styles for describing the presentation of the markup based documents. 
+
+
+WHY CSS ?
+
+CSS is abbreviated as Cascading Style Sheets and describes how HTML elements need to be displayed when represented in a web page format or other media. 
+It also helps save a lot of work because controlling multiple web pages' layouts can be done simultaneously. The latest version of CSS is CSS3.
+CSS is said to as the cornerstone design tool of the World Wide Web along with HTML and JavaScript.
+CSS is intended for enabling the separation of appearance with content, which includes layout, coloring, and font styles.
+Such a smart approach can progress the accessibility of content, offer more flexibility, and organize in the presentation order. It allows multiple web pages to contribute to formatting by giving relevant CSS instructions in another file with the file extension .css. 
+This separation of design implementation helps in reducing complexity as well as repetition in the structural content.
