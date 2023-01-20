@@ -1,0 +1,16 @@
+ ⭐ //Background color property
+
+   background-color : //color write
+   
+ ⭐ //Background image property
+ 
+   background-image : url(" //paste the URL ")
+   
+ ⭐ // Background position property
+ 
+   background-position : //posti
+   
+ ⭐  //Background Shorthand
+  
+    background : //It sets all property like color,url everything by a single line
+   
